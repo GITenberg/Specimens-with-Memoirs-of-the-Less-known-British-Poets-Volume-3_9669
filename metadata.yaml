@@ -1,0 +1,25 @@
+_repo: Specimens-with-Memoirs-of-the-Less-known-British-Poets-Volume-3_9669
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Gilfillan, George
+    birthdate: 1813
+    deathdate: 1878
+    gutenberg_agent_id: '3126'
+    url: http://www.gutenberg.org/2009/agents/3126
+    wikipedia: http://en.wikipedia.org/wiki/George_Gilfillan
+description: ''
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9669'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcc 'PR'
+- GITenberg
+title: Specimens with Memoirs of the Less-known British Poets, Volume 3
+url: http://www.gutenberg.org/ebooks/9669
